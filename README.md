@@ -50,10 +50,19 @@ The projects I have led are as follows: <br/>
 <li>Risks & Mitigation: It took longer than expected to gather first-hand data on the average number of customers the business serviced during peak periods. Notwithstanding, the project was finished on time. 
  </ul>
 
+## PM Artifacts 
+<div>
+  <a href='https://docs.google.com/spreadsheets/d/1wUYJrslP6XoRTL9z1hjnLgaBIhkXx6tVlkvUxYJVCJw/edit#gid=300282276' > 
+  <img  src='images/office green.png' alt='PM Artifacts' width='85%' height='500'/> 
+  <br/>
+  <caption>Image Link to my PM Artifacts</caption>
+  </a>
+</div>
+
 ## Appending 
 
 <div>
-<img  src='images/jira.png' alt='Issues On The Jira Board' width='80%' height='400'  />
+<img  src='images/jira.png' alt='Issues On The Jira Board' width='85%' height='500'  />
 <br/>
 <caption>Issues On The Jira Board</caption>
 </div>
@@ -61,7 +70,7 @@ The projects I have led are as follows: <br/>
 <br/>
 
 <div>
-<img  src='images/confluence.png' alt='Confleunce Space For Project News Updates' width='80%' height='400'  />
+<img  src='images/confluence.png' alt='Confleunce Space For Project News Updates' width='85%' height='500'  />
 <br/>
 <caption>Confleunce Space For Project News Updates</caption>
 </div>
