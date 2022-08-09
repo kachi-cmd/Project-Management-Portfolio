@@ -52,10 +52,10 @@ The projects I have led are as follows: <br/>
 
 ## Appending 
 
-<img  src='images/jira.png' alt='Issues On The Jira Board' width='500' height='500'  />
+<img  src='images/jira.png' alt='Issues On The Jira Board' width='80%' height='400'  />
 <caption>Issues On The Jira Board</caption>
 
 <br/>
 
-<img  src='images/confluence.png' alt='Confleunce Space For Project News Updates' width='500' height='500'  />
+<img  src='images/confluence.png' alt='Confleunce Space For Project News Updates' width='80%' height='400'  />
 <caption>Confleunce Space For Project News Updates</caption>
