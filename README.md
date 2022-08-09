@@ -2,7 +2,7 @@
 ## Professional Summary
 Motivated project management professional, passionate about bringing ideas to life. Proficient in project and event management, cross-team communication, and customer service. Enjoys finding creative solutions in customer service (CRM), finance, real etste, and web development initiatives. A solution-driven individual with experience in solving complex problems. Proficient in managing supplier relationships, administrative contacts, and learning new technologies. Highly efficient at coaching and mentoring agile teams. 
 ## Projects 
-The projects I have led are as follows: <b/>
+The projects I have led are as follows: <br/>
 Real Estate Software 
 Project Goal: A Software that can meet client/customer Real Estate needs 
 Project Scope: Should have a property hub, portfolio management capabilities, receive payments, make payments, and send notifications. 
