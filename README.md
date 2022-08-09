@@ -14,7 +14,7 @@ The projects I have led are as follows: <br/>
 <li>Timeline: 9 months. 
 <li>Risks & Mitigation: Data on proposed user-specific needs was not readily available. The risk was mitigated by resulting in interviews with external subject matter experts (SMEs). 
   <ul/> 
-  <br/>
+  
 <b>Loan disbursement software<b/>
   <ul>
 <li>Project Goal: A Sofware that can meet the client/customer loan needs by connecting an ERP loan software to the client's built portal and mobile app via APIs.  
