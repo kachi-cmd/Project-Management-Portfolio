@@ -62,7 +62,7 @@ The projects I have led are as follows: <br/>
 ## Appending 
 
 <div>
-<img  src='images/jira.png' alt='Issues On The Jira Board' width='85%' height='500'  />
+<img  src='images/jira.png' alt='Issues On The Jira Board' width='90%' height='500'  />
 <br/>
 <caption>Issues On The Jira Board</caption>
 </div>
@@ -70,7 +70,7 @@ The projects I have led are as follows: <br/>
 <br/>
 
 <div>
-<img  src='images/confluence.png' alt='Confleunce Space For Project News Updates' width='85%' height='500'  />
+<img  src='images/confluence.png' alt='Confleunce Space For Project News Updates' width='90%' height='500'  />
 <br/>
 <caption>Confleunce Space For Project News Updates</caption>
 </div>
