@@ -14,24 +14,35 @@ The projects I have led are as follows: <br/>
 <li>Timeline: 9 months. 
 <li>Risks & Mitigation: Data on proposed user-specific needs was not readily available. The risk was mitigated by resulting in interviews with external subject matter experts (SMEs). 
   <ul/> 
-Loan disbursement software
-Project Goal: A Sofware that can meet the client/customer loan needs by connecting an ERP loan software to the client's built portal and mobile app via APIs.  
-Project Scope: Should be able to disburse different loan types, e.g., amortized, simple interest, and bullet loans. Should also be able to receive payment and keep track of loan repayment schedule. Connect all the loan features via APIs and document their dependencies, variables and ENVs.  
-Success Criteria: 100% adoption by customers 2 months after project completion.  
-Resources: Comprises a 9-member team with a budget of N1,300,000. 
-Timeline: 1 month. 
-Risks & Mitigation: The timeline was not feasible for a 9-member team to connect and document all required APIs. As a remedy, the timeline got extended by two weeks. 
- Property Valuation; Nigerian Postal Services (NIPOST) 
-Project Goal: Valuation for sale. 
-Project Scope: NIPOST premises in Enugu and Ebonyi. 
-Success Criteria: Arriving at an accurate property value in line with market comparable.  
-Resources: Comprises a 6-member team with a budget of N1,000,000. 
-Timeline: 14-days. 
-Risks & Mitigation: Traveling in between towns proved difficult because they were mainly remote areas with bad roads. 
-Property Valuation; Admore Filling Station 
-Project Goal: Valuation for a mortgage. 
-Project Scope: Admore Filling Station premises in Nsukka, Enugu, Nigeria. 
-Success Criteria: Arriving at an accurate property value in line with market comparable.  
-Resources: Comprises a 4-member team with a budget of N200,000. 
-Timeline: 7-days. 
-Risks & Mitigation: It took longer than expected to gather first-hand data on the average number of customers the business serviced during peak periods. Notwithstanding, the project was finished on time. 
+  <br/>
+<b>Loan disbursement software<b/>
+  <ul>
+<li>Project Goal: A Sofware that can meet the client/customer loan needs by connecting an ERP loan software to the client's built portal and mobile app via APIs.  
+<li>Project Scope: Should be able to disburse different loan types, e.g., amortized, simple interest, and bullet loans. Should also be able to receive payment and keep track of loan repayment schedule. Connect all the loan features via APIs and document their dependencies, variables and ENVs.  
+<li>Success Criteria: 100% adoption by customers 2 months after project completion.  
+<li>Resources: Comprises a 9-member team with a budget of N1,300,000. 
+<li>Timeline: 1 month. 
+<li>Risks & Mitigation: The timeline was not feasible for a 9-member team to connect and document all required APIs. As a remedy, the timeline got extended by two weeks. 
+  <ul/>
+  <br/>
+
+ <b>Property Valuation; Nigerian Postal Services (NIPOST)<b/>
+  <ul>
+<li>Project Goal: Valuation for sale. 
+<li>Project Scope: NIPOST premises in Enugu and Ebonyi. 
+<li>Success Criteria: Arriving at an accurate property value in line with market comparable.  
+<li>Resources: Comprises a 6-member team with a budget of N1,000,000. 
+<li>Timeline: 14-days. 
+<li>Risks & Mitigation: Traveling in between towns proved difficult because they were mainly remote areas with bad roads. 
+ <ul/>
+ <br/>
+
+<b>Property Valuation; Admore Filling Station <b/>
+ <ul>
+<li>Project Goal: Valuation for a mortgage. 
+<li>Project Scope: Admore Filling Station premises in Nsukka, Enugu, Nigeria. 
+<li>Success Criteria: Arriving at an accurate property value in line with market comparable.  
+<li>Resources: Comprises a 4-member team with a budget of N200,000. 
+<li>Timeline: 7-days. 
+<li>Risks & Mitigation: It took longer than expected to gather first-hand data on the average number of customers the business serviced during peak periods. Notwithstanding, the project was finished on time. 
+ <ul/>
