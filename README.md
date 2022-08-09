@@ -54,6 +54,7 @@ The projects I have led are as follows: <br/>
 
 <div>
 <img  src='images/jira.png' alt='Issues On The Jira Board' width='80%' height='400'  />
+<br/>
 <caption>Issues On The Jira Board</caption>
 </div>
 
@@ -61,5 +62,6 @@ The projects I have led are as follows: <br/>
 
 <div>
 <img  src='images/confluence.png' alt='Confleunce Space For Project News Updates' width='80%' height='400'  />
+<br/>
 <caption>Confleunce Space For Project News Updates</caption>
 </div>
