@@ -2,7 +2,7 @@
 
 ## Professional Summary
 
-Motivated project management professional, passionate about bringing ideas to life. Proficient in project and event management, cross-team communication, and customer service. Enjoys finding creative solutions in customer service (CRM), finance, real etste, and web development initiatives. A solution-driven individual with experience in solving complex problems. Proficient in managing supplier relationships, administrative contacts, and learning new technologies. Highly efficient at coaching and mentoring agile teams.
+Motivated project management (PM) professional, passionate about bringing ideas to life. Proficient in project and event management, cross-team communication, and customer service. Enjoys finding creative solutions in customer service (CRM), finance, real etste, and web development initiatives. A solution-driven individual with experience in solving complex problems. Proficient in managing supplier relationships, administrative contacts, and learning new technologies. Highly efficient at coaching and mentoring agile teams.
 
 ## Projects
 
