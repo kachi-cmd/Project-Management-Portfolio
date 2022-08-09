@@ -53,7 +53,7 @@ The projects I have led are as follows: <br/>
 ## PM Artifacts 
 <div>
   <a href='https://docs.google.com/spreadsheets/d/1wUYJrslP6XoRTL9z1hjnLgaBIhkXx6tVlkvUxYJVCJw/edit#gid=300282276' > 
-  <img  src='images/office green.png' alt='PM Artifacts' width='85%' height='500'/> 
+  <img  src='images/office green.png' alt='PM Artifacts' width='70%' height='400'/> 
   <br/>
   <caption>Image Link to my PM Artifacts</caption>
   </a>
