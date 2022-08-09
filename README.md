@@ -74,3 +74,10 @@ The projects I have led are as follows: <br/>
 <br/>
 <caption>Confleunce Space For Project News Updates</caption>
 </div>
+
+## Contact Information 
+Onyedikachi Emmanuel Ezema <br/>
+emmanuelkachiii@gmail.com <br/>
++2348142230727 <br/>
+<a href='https://www.linkedin.com/in/onyedikachi-ezema-87b43b1b7' > Linkedin Profile </a>
+
