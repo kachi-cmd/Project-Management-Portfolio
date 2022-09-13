@@ -2,7 +2,7 @@
 
 ## Professional Summary
 
-I am a motivated project management (PM) professional, passionate about bringing ideas to life. I am proficient in project management, cross-team communication, and customer service. I enjoy finding creative solutions in Customer Service (CRM), Finance, Real Estate, and Web-Development initiatives. I like to see myself as a solution-driven individual with experience in solving complex problems, with  proficies in managing supplier relationships, administrative contacts, and learning new technologies. Also, I am efficient at coaching and mentoring Agile teams.
+I am a motivated project management (PM) professional, passionate about bringing ideas to life. I am proficient in project management, cross-team communication, and customer service. I enjoy finding creative solutions in Customer Service (CRM), Finance, Real Estate, and Web-Development initiatives. I like to see myself as a solution-driven individual with experience in solving complex problems, with  proficies in managing supplier relationships, administrative contacts, and learning new technologies. Also, I am efficient in coaching and mentoring Agile teams.
 
 ## Projects
 
