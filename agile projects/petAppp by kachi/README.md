@@ -28,19 +28,19 @@ The chosen color scheme enhances the aesthetic appeal of the app:
 
 ##### UI Components
 <div>
-    <img   />
+    <img  src='images/petApp 1.png' alt='UI Components' width='100%' height='400' />
 </div> 
 
 ##### Designed pages
 <div>
-    <img   />
+    <img  src='images/petApp 2.png' alt=' Designed pages' width='100%' height='400' />
 </div> 
 
 ##### Prototype
 To bring the design to life, a prototype was developed using ease-in and ease-out animations. This not only provided a visually engaging experience but also mimicked real-world user interactions. 
 
 <div>
-    <img   />
+    <img  src='images/petApp 3.png' alt='Prototype' width='100%' height='400' />
 </div> 
 
 Feel free to explore the prototype to get an interactive preview of the PetAppp-by-Kachi.
@@ -119,6 +119,6 @@ Project pages on Jira:
 <a href="https://emmanuelkachi.atlassian.net/jira/software/projects/PBK/boards/5"> JIRA Board & Confluence</a>
 
 <div>
-    <img   />
-    <img   />
+    <img src='images/petApp 4.png' alt='Jira Board' width='100%' height='400'  />
+    <img  src='images/petApp 5.png' alt='Confluence' width='100%' height='400' />
 </div> 
