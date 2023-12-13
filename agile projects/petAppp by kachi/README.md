@@ -10,7 +10,7 @@ The PetAppp-by-Kachi is a dedicated platform for sharing delightful pet pictures
 Four pages were conceptualized for the app - the login and register page, the menu page, the profile page, and the feeds page. These wireframes acted as the initial sketch board for the app's user interface. In their creation, I utilized frames, basic shapes, text, ellipses, strokes, and fills to outline the app's structure.
 
 <div>
-    <img src='images/petApp 0.png' alt='Wireframes' width='70%' height='400' />
+    <img src='images/petApp 0.png' alt='Wireframes' width='100%' height='400' />
 </div> 
 
 ###### Design:
@@ -43,8 +43,9 @@ To bring the design to life, a prototype was developed using ease-in and ease-ou
     <img   />
 </div> 
 
+ Click to view the PetAppp-by-kachi prototype:
 <a href="https://www.figma.com/proto/AJBsSEajVnzeoc0XYsAjZP/PetApp-playground?type=design&node-id=11-281&t=nVchiW5qGIlHISBC-1&scaling=scale-down&page-id=11%3A280&starting-point-node-id=11%3A281&mode=design" 
-> Click to view the PetAppp-by-kachi prototype</a>
+> </a>
 
 Feel free to explore the prototype to get an interactive preview of the PetAppp-by-Kachi.
 
