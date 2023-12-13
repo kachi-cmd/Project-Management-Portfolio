@@ -8,16 +8,12 @@ I am a motivated IT Specialist, passionate about bringing ideas to life. I am pr
 
 The projects I have led are as follows: <br/>
 
-#### Real Estate Software
-  <ul>
-<li>Project Goal: A Software that can meet client/customer Real Estate needs 
-<li>Project Scope: Should have a property hub, portfolio management capabilities, receive payments, make payments, and send notifications. 
-<li>Success Criteria: 100% adoption by customers 2 months after project completion.  
-<li>Resources: Comprises a 10-member team. 
-<li>Timeline: 9 months. 
-<li>Risks & Mitigation: Data on proposed user-specific needs was not readily available. The risk was mitigated by resulting in interviews with external subject matter experts (SMEs). 
-  </ul> 
+#### PetApp-by-kachi Project
+  ##### <a href='https://github.com/kachi-cmd/Project-Management-Portfolio/tree/main/agile%20projects/petAppp%20by%20kachi'> Click here to view project details</a>
   
+#### Real Estate Software
+
+
  #### Loan disbursement software
   <ul>
 <li>Project Goal: A Sofware that can meet the client/customer loan needs by connecting an ERP loan software to the client's built portal and mobile app via APIs.  
