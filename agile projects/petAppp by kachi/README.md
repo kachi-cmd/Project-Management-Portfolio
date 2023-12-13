@@ -28,7 +28,7 @@ The chosen color scheme enhances the aesthetic appeal of the app:
 
 ##### UI Components
 <div>
-    <img  src='/agile projects/petAppp by kachi/images/petAppp 1.png' alt='UI Components' width='70%' height='400' />
+    <img  src='/agile projects/petAppp by kachi/images/petAppp 1.png' alt='UI Components' width='85%' height='400' />
 </div> 
 
 ##### Designed pages
