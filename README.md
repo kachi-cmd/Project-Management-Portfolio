@@ -9,7 +9,7 @@ I am a motivated IT Specialist, passionate about bringing ideas to life. I am pr
 The projects I have led are as follows: <br/>
 
 #### PetApp-by-kachi Project
-  ###### <a href='https://github.com/kachi-cmd/Project-Management-Portfolio/tree/main/agile%20projects/petAppp%20by%20kachi'> Click here to view project details</a>
+  ###### <a href='https://github.com/kachi-cmd/Project-Management-Portfolio/tree/main/agile%20projects/petAppp%20by%20kachi%20project'> Click here to view project details</a>
  <br/> 
 
 
