@@ -4,7 +4,7 @@
 Develop an integrated Real Estate Software solution to cater to the diverse needs of clients and customers, providing a comprehensive platform for efficient property management and streamlined financial transactions within the real estate domain.
 
 <div>
-    <img src='/agile projects/real estate software project/images/RESP image 1.jpg'  alt='project goal' width='100%' height='150'/>
+    <img src='/agile projects/real estate software project/images/RESP image 1.jpg'  alt='project goal' width='40%' height='250'/>
 </div>
 
 #### Project Scope:
