@@ -8,17 +8,17 @@ I am a motivated IT Specialist, passionate about bringing ideas to life. I am pr
 
 The projects I have led are as follows: <br/>
 
-#### PetApp-by-kachi Project
+#### PetApp-by-kachi Project:
   ###### <a href='https://github.com/kachi-cmd/Project-Management-Portfolio/tree/main/agile%20projects/petAppp%20by%20kachi%20project'> Click here to view project details</a>
  <br/> 
 
 
-#### Real Estate Software
+#### Real Estate Software:
    ###### <a href='https://github.com/kachi-cmd/Project-Management-Portfolio/tree/main/agile%20projects/real%20estate%20software%20project' >  Click here to view project details </a>
  <br/> 
 
 
- #### Loan disbursement software
+ #### Loan disbursement software:
    ###### <a href='https://github.com/kachi-cmd/Project-Management-Portfolio/tree/main/agile%20projects/loan%20disbursement%20software%20poject' >  Click here to view project details </a>
  <br/>  
 
