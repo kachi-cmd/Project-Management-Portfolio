@@ -82,7 +82,7 @@ Upon successful deployment, conduct a comprehensive project review, capturing le
 
 Project Pages on Jira:
 
-<a href='https://emmanuelkachi.atlassian.net/jira/software/projects/LDSP/boards/4' > JIRA Board & Confluence </a>
+<a href='https://emmanuelkachi.atlassian.net/jira/software/projects/LDSP/boards/4' > Click to view JIRA Board & Confluence </a>
 
 <div>
     <img src='/agile projects/loan disbursement software poject/images/LDSP pic 1.png' alt='Jira Board' width='100%' height='400'  />

@@ -49,7 +49,7 @@ Achieve 60% customer adoption within 2 months post-project completion, demonstra
 Allocate 9 months for project completion, allowing for thorough development, testing, and refinement.
 
 <div>
-    <img src='/agile projects/real estate software project/images/RESP image 2.jpg'  alt='project-phase & timeline' width='100%' height='150'/>
+    <img src='/agile projects/real estate software project/images/RESP image 2.jpg'  alt='project-phase & timeline' width='40%' height='250'/>
 </div>
 
 #### Project Phases:
@@ -92,14 +92,14 @@ Allocate 9 months for project completion, allowing for thorough development, tes
 #### Project Closure:
 
 <div>
-    <img src='/agile projects/real estate software project/images/RESP image 3.jpg'  alt='project closure' width='100%' height='150'/>
+    <img src='/agile projects/real estate software project/images/RESP image 3.jpg'  alt='project closure' width='40%' height='250'/>
 </div>
 
 Conduct a thorough project review, capturing lessons learned, and identifying opportunities for future enhancements. Ensure ongoing support and maintenance to address any post-deployment issues, fostering a positive user experience and maximizing the software's impact within the real estate sector.
 
 Project pages on Jira:
 
-<a href='https://emmanuelkachi.atlassian.net/jira/software/projects/RESP/boards/3'  > JIRA Board & Confluence  </a>
+<a href='https://emmanuelkachi.atlassian.net/jira/software/projects/RESP/boards/3'  > Click to view JIRA Board & Confluence  </a>
 
 <div>
     <img src='/agile projects/real estate software project/images/RESP image 4.jpg' alt='Jira Board' width='100%' height='400'  />

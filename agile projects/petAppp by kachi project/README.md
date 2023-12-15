@@ -116,7 +116,7 @@ The budget for this project is estimated at [N#########] and includes personnel 
 The successful execution of the PetAppp project will result in a captivating and user-friendly mobile application, fostering a community of pet lovers. By adhering to the proposed timeline and effectively mitigating potential challenges, we aim to deliver a high-quality product that exceeds user expectations.
 
 Project pages on Jira:
-<a href="https://emmanuelkachi.atlassian.net/jira/software/projects/PBK/boards/5"> JIRA Board & Confluence</a>
+<a href="https://emmanuelkachi.atlassian.net/jira/software/projects/PBK/boards/5"> Click to view JIRA Board & Confluence</a>
 
 <div>
     <img src='/agile projects/petAppp by kachi/images/petAppp 4.png' alt='Jira Board' width='100%' height='400'  />
