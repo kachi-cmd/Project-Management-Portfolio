@@ -28,19 +28,19 @@ The chosen color scheme enhances the aesthetic appeal of the app:
 
 ##### UI Components
 <div>
-    <img  src='/agile projects/petAppp by kachi/images/petAppp 1.png' alt='UI Components' width='85%' height='400' />
+    <img  src='images/petAppp 1.png' alt='UI Components' width='85%' height='400' />
 </div> 
 
 ##### Designed pages
 <div>
-    <img  src='/agile projects/petAppp by kachi/images/petAppp 2.png' alt=' Designed pages' width='100%' height='400' />
+    <img  src='images/petAppp 2.png' alt=' Designed pages' width='100%' height='400' />
 </div> 
 
 ##### Prototype
 To bring the design to life, a prototype was developed using ease-in and ease-out animations. This not only provided a visually engaging experience but also mimicked real-world user interactions. 
 
 <div>
-    <img  src='/agile projects/petAppp by kachi/images/petAppp 3.png' alt='Prototype' width='100%' height='400' />
+    <img  src='images/petAppp 3.png' alt='Prototype' width='100%' height='400' />
 </div> 
 
 Feel free to explore the prototype to get an interactive preview of the PetAppp-by-Kachi.
