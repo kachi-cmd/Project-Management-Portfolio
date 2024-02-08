@@ -28,7 +28,7 @@ The chosen color scheme enhances the aesthetic appeal of the app:
 
 ##### UI Components
 <div>
-    <img  src='images/petAppp 1.png' alt='UI Components' width='85%' height='400' />
+    <img  src='images/petAppp 1.png' alt='UI Components' width='50%' height='400' />
 </div> 
 
 ##### Designed pages
@@ -119,6 +119,6 @@ Project pages on Jira:
 <a href="https://emmanuelkachi.atlassian.net/jira/software/projects/PBK/boards/5"> Click to view JIRA Board & Confluence</a>
 
 <div>
-    <img src='/agile projects/petAppp by kachi/images/petAppp 4.png' alt='Jira Board' width='100%' height='400'  />
-    <img  src='/agile projects/petAppp by kachi/images/petAppp 5.png' alt='Confluence' width='100%' height='400' />
+    <img src='/images/petAppp 4.png' alt='Jira Board' width='100%' height='400'  />
+    <img  src='images/petAppp 5.png' alt='Confluence' width='100%' height='400' />
 </div> 
