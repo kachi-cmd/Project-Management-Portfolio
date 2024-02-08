@@ -44,10 +44,10 @@ To bring the design to life, a prototype was developed using ease-in and ease-ou
 </div> 
 
 <br>
-<h6>Feel free to explore the prototype to get an interactive preview of the PetAppp-by-Kachi.
+<h4>Feel free to explore the prototype to get an interactive preview of the PetAppp-by-Kachi.
 <a href="https://www.figma.com/proto/AJBsSEajVnzeoc0XYsAjZP/PetApp-playground?type=design&node-id=11-281&t=nVchiW5qGIlHISBC-1&scaling=scale-down&page-id=11%3A280&starting-point-node-id=11%3A281&mode=design" >  Click to view the PetAppp-by-kachi prototype:
  </a>
- <h6>
+ </h4>
 <br>
 
 ### Software Project Execution Proposal: PetAppp by Kachi
