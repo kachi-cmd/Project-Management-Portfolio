@@ -28,7 +28,7 @@ The chosen color scheme enhances the aesthetic appeal of the app:
 
 ##### UI Components
 <div>
-    <img  src='images/petAppp 1.png' alt='UI Components' width='50%' height='400' />
+    <img  src='images/petAppp 1.png' alt='UI Components' width='85%' height='300' />
 </div> 
 
 ##### Designed pages
@@ -43,10 +43,12 @@ To bring the design to life, a prototype was developed using ease-in and ease-ou
     <img  src='images/petAppp 3.png' alt='Prototype' width='100%' height='400' />
 </div> 
 
-Feel free to explore the prototype to get an interactive preview of the PetAppp-by-Kachi.
+<br>
+<h6>Feel free to explore the prototype to get an interactive preview of the PetAppp-by-Kachi.
 <a href="https://www.figma.com/proto/AJBsSEajVnzeoc0XYsAjZP/PetApp-playground?type=design&node-id=11-281&t=nVchiW5qGIlHISBC-1&scaling=scale-down&page-id=11%3A280&starting-point-node-id=11%3A281&mode=design" >  Click to view the PetAppp-by-kachi prototype:
  </a>
-
+ <h6>
+<br>
 
 ### Software Project Execution Proposal: PetAppp by Kachi
 
@@ -119,6 +121,6 @@ Project pages on Jira:
 <a href="https://emmanuelkachi.atlassian.net/jira/software/projects/PBK/boards/5"> Click to view JIRA Board & Confluence</a>
 
 <div>
-    <img src='/images/petAppp 4.png' alt='Jira Board' width='100%' height='400'  />
+    <img src='images/petAppp 4.png' alt='Jira Board' width='100%' height='400'  />
     <img  src='images/petAppp 5.png' alt='Confluence' width='100%' height='400' />
 </div> 
